@@ -1,4 +1,4 @@
 I have 2 old display **T/N** 15.6" FHD 60hz from my laptop. I bought new IPS display and replaced. But I don't want to trash this displays and want give them second life. So I started this project. In this project I do from trash secondery monitor to use this at home for telegram and other programs. I really need second monitor because I work in After Effects too, so I need more space in display for interface.
 # October 6
 I came up with this idea at school. I want monitor mount+monitor. At first I import 3d display and adapter form grapcad. From cube I modelated frame for display and did the back part, so the display can be glued onto it later. Than mount for adapter I glue this too later. Than next back part for all of this items. And that's all that's all taked 35 minutes. I want to sleep, so I continue this later.
-**Total time spent: 0,6 hours**
+**Total time spent: 0.6 hours**
